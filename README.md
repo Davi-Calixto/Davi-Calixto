@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at **UESC**
 💻 Interested in **C, low-level programming, operating systems and cybersecurity**
-🌎 Working toward becoming a software engineer with an international career
+🌎 Working toward become a software engineer
 
 ## About me
 
