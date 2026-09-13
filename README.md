@@ -1,4 +1,4 @@
-# Hi, I'm Davi 👋
+Davi Calixto
 
 🎓 Computer Science student 
 💻 Interested in **C, low-level programming, operating systems and cybersecurity**
@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a Computer Science student who enjoys understanding how things work **under the hood**.
+I'm a Computer Science student who enjoys understanding how things work under the hood.
 
 Currently, I'm focusing on **C**, data structures, pointers, memory management and low-level programming. I'm also exploring Linux, Assembly and operating systems, with the goal of eventually building projects that go beyond high-level abstractions.
 
