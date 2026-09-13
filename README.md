@@ -56,11 +56,11 @@ Some things I'm building and studying:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-## Philosophy
+## A phrase from Fernando Pessoa, my favorite autor:
 
-> "The best way to understand an abstraction is to learn what is underneath it."
+> "Everything is worthwhile when the soul is not small."
 
 ---
 
 📍 Brazil
-📖 Always learning.
+📖 Trying to be better
