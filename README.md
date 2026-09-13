@@ -16,19 +16,19 @@ I like learning by building things, breaking them, figuring out why they broke, 
 
 ```text
 C
-├── Pointers
-├── Dynamic Memory
-├── Data Structures
-└── Low-level Programming
+├── Pointers [x]
+├── Dynamic Memory [ ]
+├── Data Structures [ ]
+└── Low-level Programming [ ]
 
 Systems
-├── Linux
-├── Assembly
-├── Operating Systems
-└── Computer Architecture
+├── Linux [x]
+├── Assembly [ ]
+├── Operating Systems [ ]
+└── Computer Architecture [ ]
 
 Other
-├── Git / GitHub
+├── Git / GitHub 
 └── English
 ```
 
