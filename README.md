@@ -1,6 +1,6 @@
 # Hi, I'm Davi 👋
 
-🎓 Computer Science student at **UESC**
+🎓 Computer Science student 
 💻 Interested in **C, low-level programming, operating systems and cybersecurity**
 🌎 Working toward become a software engineer
 
