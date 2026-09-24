@@ -1,8 +1,8 @@
 # Davi Calixto
 
-🎓 Computer Science student 
-💻 Interested in **C, low-level programming, operating systems and cybersecurity**
-🌎 Working toward become a software engineer
+Computer Science student 
+Interested in **C, low-level programming, operating systems and cybersecurity**
+Working toward become a software engineer
 
 ## About me
 
@@ -34,20 +34,20 @@ Other
 
 ## Interests
 
-* 🧠 Low-level programming
-* ⚙️ Operating Systems
-* 🔐 Cybersecurity
-* 💻 Systems programming
-* 🐧 Linux
-* 📚 Computer Science fundamentals
+*  Low-level programming
+*  Operating Systems
+*  Cybersecurity
+*  Systems programming
+*  Linux
+*  Computer Science fundamentals
 
 ## Projects
 
 Some things I'm building and studying:
 
-* 🖥️ **Mini Kernel** — an experimental kernel written in C and Assembly
-* 📦 **Data Structures in C** — implementations created while studying pointers and dynamic memory
-* 🧪 More projects coming as I go deeper into systems programming
+*  **Mini Kernel** — an experimental kernel written in C and Assembly
+*  **Data Structures in C** — implementations created while studying pointers and dynamic memory
+*  More projects coming as I go deeper into systems programming
 
 ## Tech
 
@@ -63,4 +63,3 @@ Some things I'm building and studying:
 ---
 
 📍 Brazil
-📖 Trying to be better
