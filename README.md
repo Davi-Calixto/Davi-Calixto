@@ -17,8 +17,8 @@ I like learning by building things, breaking them, figuring out why they broke, 
 ```text
 C
 ├── Pointers [x]
-├── Dynamic Memory [ ]
-├── Data Structures [ ]
+├── Dynamic Memory [x]
+├── Data Structures [ ] in progress
 └── Low-level Programming [ ]
 
 Systems
